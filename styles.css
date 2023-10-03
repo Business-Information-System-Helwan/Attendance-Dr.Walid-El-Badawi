@@ -87,7 +87,7 @@ input[type="button"]:hover {
 }
 
 .student-section {
-  /* display: none; */
+  display: none;
   background-color: #ffffffb9;
   text-align: center;
   height: 100%;
@@ -172,7 +172,6 @@ footer {
   height: 98%;
   border-radius: 25px; 
   overflow-y: auto;
-  display: none;
 }
 
 .rotate-message button {
